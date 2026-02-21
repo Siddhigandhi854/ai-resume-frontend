@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5000';
+const API_BASE_URL = 'https://ai-resume-backend-silb.onrender.com';
 
 function initYear() {
   const yearEl = document.getElementById('year');
